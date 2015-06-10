@@ -1,5 +1,5 @@
 <?php
-    include_once 'includes/functions.php';
+    include_once 'include/function.php';
     require("includes/PHPMailer/class.phpmailer.php");
 ?>
 
